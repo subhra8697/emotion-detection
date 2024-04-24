@@ -1,4 +1,4 @@
-# Emotion Detection using Convolutional Neural Networks and OpenCV
+<h1 align="center"> Emotion Detection using Convolutional Neural Networks and OpenCV</h1>
 
 This project aims to detect facial emotions in real-time using Convolutional Neural Networks (CNNs) implemented with Keras and integrated with OpenCV for video processing.
 
